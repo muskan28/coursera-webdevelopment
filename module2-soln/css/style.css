@@ -87,7 +87,7 @@ background-color: #F0E68C;
 @media (min-width: 768px) and (max-height: 991px) {
 	.col-md-2{
 		float: left;
-		width: 50%;
+		width: 48.5%;
 		height: 200px;
 		margin-top: 50px;
 		margin: 5px ;
